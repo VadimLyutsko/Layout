@@ -1,0 +1,7 @@
+.nav {
+   border: 1px solid #282c34;
+   width: 300px;
+   display: flex;
+   justify-content: space-around;
+   margin-right: 15%;
+}
