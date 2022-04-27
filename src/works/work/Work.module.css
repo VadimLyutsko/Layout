@@ -1,0 +1,17 @@
+.work {
+    width: 250px;
+    background-color: #d9af0b;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.icon{
+    height:250px;
+    width: 100%;
+    background-color: #0b2556;
+color: #8fc7d7;
+    font-weight: bold;
+}
+
